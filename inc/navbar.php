@@ -15,7 +15,7 @@
 
     <a href="<?php echo $url_base; ?>">
       <!-- <img class="siteheader-logo" src="<?php echo $url_base; ?>/inc/images/logos/logo_header.svg" loading="lazy" /> -->
-      <i class="i i-prodmaisheader siteheader__logo"></i>
+      <i class="i i-ufrgspesqheader siteheader__logo"></i>
     </a>
 
     <div class="sitemenu-container">
@@ -80,12 +80,14 @@
           </a>
         </li> -->
 
+          <!--
           <li class="sitemenu-item">
             <a class="sitemenu-link" href="sobre.php" title="Sobre o Prodmais">
               Sobre
               <i class="i i-about sitemenu-ico"></i>
             </a>
           </li>
+          -->
         </ul>
       </nav>
     </div>

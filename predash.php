@@ -6,23 +6,25 @@
   require 'inc/config.php';
   require 'inc/meta-header.php';
   ?>
-  <title>Manual do Prodmais | Manual do Dashboard</title>
+  <title>Manual do PesqUFRGS | Manual do Dashboard</title>
   <meta name="generator" content="Jekyll v4.2.1" />
-  <meta property="og:title" content="Manual do Dashboard do Prodmais" />
+  <meta property="og:title" content="Manual do Dashboard do PesqUFRGS" />
   <meta property="og:locale" content="en_US" />
-  <meta name="description" content="Manual do Dashboard do Prodmais" />
-  <meta property="og:description" content="Manual do Dashboard do Prodmais" />
+  <meta name="description" content="Manual do Dashboard do PesqUFRGS" />
+  <meta property="og:description" content="Manual do Dashboard do PesqUFRGS" />
+  <!--
   <link rel="canonical" href="https://unifesp.br/prodmais/predash.php" />
   <meta property="og:url" content="https://unifesp.br/prodmais/predash.php" />
-  <meta property="og:site_name" content="Manual do Dashboard do Prodmais" />
+  -->
+  <meta property="og:site_name" content="Manual do Dashboard do PesqUFRGS" />
   <meta name="twitter:card" content="summary" />
-  <meta property="twitter:title" content="Manual do Dashboard do Prodmais" />
+  <meta property="twitter:title" content="Manual do Dashboard do PesqUFRGS" />
   <script type="application/ld+json">
   {
     "@type": "WebPage",
-    "description": "Manual do Dashboard do Prodmais",
-    "url": "https://unifesp.br/prodmais/predash.php",
-    "headline": "Manual do Dashboard do Prodmais",
+    "description": "Manual do Dashboard do PesqUFRGS",
+    //"url": "https://unifesp.br/PesqUFRGS/predash.php",
+    "headline": "Manual do Dashboard do PesqUFRGS",
     "@context": "https://schema.org"
   }
   </script>
@@ -48,7 +50,7 @@
 
     <img class="p-predash-img" src="inc/images/login.jpg" />
 
-    <p class="t t-center">O Prodmais utiliza a ferramenta Elastic Search para oferecer um poderoso dashboard com dados
+    <p class="t t-center">O PesqUFRGS utiliza a ferramenta Elastic Search para oferecer um poderoso dashboard com dados
       detalhados sobre a base de produção acadêmica. Você pode consultar duas categorias de dashboard:
       produção acadêmica e perfil dos pesquisadores.</p>
 

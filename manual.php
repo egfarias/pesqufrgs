@@ -7,9 +7,9 @@
   require 'inc/meta-header.php';
   ?>
   <meta charset="utf-8" />
-  <title>Manual do Prodmais</title>
+  <title>Manual do PesqUFRGS</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-  <meta name="description" content="Prodmais Unifesp." />
+  <meta name="description" content="PesqUFRGS" />
   <meta name="keywords" content="Produção acadêmica, lattes, ORCID" />
 
 </head>
@@ -21,13 +21,13 @@
   <main class="c-wrapper-container">
     <div class="c-wrapper-paper">
       <div class="c-wrapper-inner">
-        <h2>Manual do Prodmais</h2>
+        <h2>Manual do PesqUFRGS</h2>
         <div class="md-container">
 
         </div>
-        <p>O Prodmais é uma ferramenta que agrega informação de diversas fontes, mas não realiza processamento posterior
-          nelas. Neste manual prático você podrá tirar suas dúvidas sobre como utilizar o Prodmais. É fácil efetuar as
-          suas buscas no Prodmais, e você pode fazer utilizando um dos seguintes caminhos:</p>
+        <p>O PesqUFRGS é uma ferramenta que agrega informação de diversas fontes, mas não realiza processamento posterior
+          nelas. Neste manual prático você podrá tirar suas dúvidas sobre como utilizar o PesqUFRGS. É fácil efetuar as
+          suas buscas no PesqUFRGS, e você pode fazer utilizando um dos seguintes caminhos:</p>
 
         <?php
             $parsedown = new Parsedown();

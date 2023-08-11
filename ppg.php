@@ -65,7 +65,7 @@ class PPG {
   <meta charset="utf-8" />
   <title><?php echo $branch; ?> - PPG <?php echo $ppg["NOME_PPG"]; ?></title>
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-  <meta name="description" content="Prodmais Unifesp." />
+  <meta name="description" content="PesqUFRGS" />
   <meta name="keywords" content="Produção acadêmica, lattes, ORCID" />
 
 </head>
@@ -238,7 +238,7 @@ class PPG {
                   $picture = "inc/images/tmp/profile.jpg",
                   $name = 'Sócrates',
                   $title = 'Linha de pesquisa',
-                  $link = 'https://unifesp.br/prodmais/index.php'
+                  //$link = 'https://unifesp.br/prodmais/index.php'
                 )
               ?>
             </li>
@@ -248,7 +248,7 @@ class PPG {
                     $picture = "inc/images/tmp/profile.jpg",
                     $name = 'Sêneca',
                     $title = 'Linha de pesquisa',
-                    $link = 'https://unifesp.br/prodmais/index.php'
+                    //$link = 'https://unifesp.br/prodmais/index.php'
                   )
                 ?>
             </li>
@@ -258,7 +258,7 @@ class PPG {
                     $picture = "inc/images/tmp/profile.jpg",
                     $name = 'Salomão',
                     $title = 'Linha de pesquisa',
-                    $link = 'https://unifesp.br/prodmais/index.php'
+                    //$link = 'https://unifesp.br/prodmais/index.php'
                   )
                 ?>
             </li>

@@ -139,7 +139,7 @@ if (!empty($_REQUEST["lattesID"])) {
     </title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <meta name="description" content="Prodmais Unifesp." />
+    <meta name="description" content="PesqUFRGS" />
     <meta name="keywords" content="Produção acadêmica, lattes, ORCID" />
     <link rel="stylesheet" href="<?php echo $url_base; ?>/inc/sass/main.css" />
     <script src="<?php echo $url_base; ?>/inc/js/vue.min.js"></script>

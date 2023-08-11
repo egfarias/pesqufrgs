@@ -46,7 +46,7 @@ class Departamento {
   <meta charset="utf-8" />
   <title><?php echo $branch; ?> - Departamento Letras</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-  <meta name="description" content="Prodmais Unifesp." />
+  <meta name="description" content="PesqUFRGS" />
   <meta name="keywords" content="Produção acadêmica, lattes, ORCID" />
 
 
@@ -85,7 +85,7 @@ class Departamento {
                 $picture = "inc/images/tmp/profile.jpg",
                 $name = 'Sócrates',
                 $title = 'Coordenador',
-                $link = 'https://unifesp.br/prodmais/index.php'
+                //$link = 'https://unifesp.br/prodmais/index.php'
                 )
                 ?>
             </div>
@@ -162,7 +162,7 @@ class Departamento {
                   $picture = "inc/images/tmp/profile.jpg",
                   $name = 'Sebastião',
                   $title = 'Linha de pesquisa',
-                  $link = 'https://unifesp.br/prodmais/index.php'
+                  //$link = 'https://unifesp.br/prodmais/index.php'
                 )
               ?>
             </li>
@@ -172,7 +172,7 @@ class Departamento {
                   $picture = "inc/images/tmp/profile.jpg",
                   $name = 'Sócrates',
                   $title = 'Linha de pesquisa',
-                  $link = 'https://unifesp.br/prodmais/index.php'
+                  //$link = 'https://unifesp.br/prodmais/index.php'
                 )
               ?>
             </li>
@@ -182,7 +182,7 @@ class Departamento {
                     $picture = "inc/images/tmp/profile.jpg",
                     $name = 'Sêneca',
                     $title = 'Linha de pesquisa',
-                    $link = 'https://unifesp.br/prodmais/index.php'
+                    //$link = 'https://unifesp.br/prodmais/index.php'
                   )
                 ?>
             </li>
@@ -192,7 +192,7 @@ class Departamento {
                     $picture = "inc/images/tmp/profile.jpg",
                     $name = 'Salomão',
                     $title = 'Linha de pesquisa',
-                    $link = 'https://unifesp.br/prodmais/index.php'
+                    //$link = 'https://unifesp.br/prodmais/index.php'
                   )
                 ?>
             </li>

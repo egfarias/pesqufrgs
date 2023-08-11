@@ -34,11 +34,11 @@ $login_password = "admin";
 // ============== CUSTOMIZAÇÃO ============== //
 
 // Definir Instituição
-$instituicao = "Universidade Federal de São Paulo";
-$branch = "Prodmais";
+$instituicao = "Universidade Federal do Rio Grande do Sul";
+$branch = "PesqUFRGS";
 $branch_description = "Descrição";
 $facebook_image = "";
-$slogan = 'Slogan';
+$slogan = '';
 
 $mostrar_instituicao = true;
 $mostrar_area_concentracao = true;
@@ -50,4 +50,5 @@ $mostrar_link_dashboard = true;
 // $theme = 'Prodmais';
 // $theme = 'Waterbeach';
 // $theme = 'Tomaton';
-$theme = 'Blueberry';
+// $theme = 'Blueberry';
+$theme = 'UFRGSPesq';

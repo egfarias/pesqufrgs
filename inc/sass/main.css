@@ -1970,12 +1970,13 @@ a {
 }
 
 .i-ufrgs {
-  background-color: transparent;
+  background-color: var(--c-se-4);
   width: 300px;
   height: 150px;
 }
 
 .i-datalab {
+  background-color: transparent;
   width: 300px;
   height: 300px;
 }

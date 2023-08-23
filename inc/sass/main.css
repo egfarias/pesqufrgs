@@ -1970,7 +1970,7 @@ a {
 }
 
 .i-ufrgs {
-  background-color: var(--c-se-4);
+  background-color: transparent;
   width: 300px;
   height: 150px;
 }

@@ -6,7 +6,7 @@
     <i class="i i-ufrgs" alt="Logo da UFRGS"></i>
   </a>
   <a href="https://www.ufrgs.br/datalab/" target="_blank" class="sitefooter-link" title="Visite o site do Datalab">
-    <i class="i i-datalab" alt="Logo do Datalab"></i>
+    <i class="i i-datalab" src="/inc/images/logos/datalab.png" alt="Logo do Datalab"></i>
   </a>
   <p class="t t-a">PesqUFRGS é beaseado no projeto de software livre Prod+</p>
   <a href="https://github.com/unifesp/prodmais" target="blank">

@@ -8,7 +8,7 @@
   <a href="https://www.ufrgs.br/datalab/" target="_blank" class="sitefooter-link" title="Visite o site do Datalab">
     <img class="i i-datalab" src="inc/images/logos/datalab300.png" alt="Logo do Datalab" />
   </a>
-  <p class="t t-a">PesqUFRGS é beaseado no projeto de software livre Prod+</p>
+  <p class="t t-a">PesqUFRGS é baseado no projeto de software livre Prod+</p>
   <a href="https://github.com/unifesp/prodmais" target="blank">
     <svg title="Github" alt="Acesse o repositório Github" class="p-about-ico" xmlns="https://www.w3.org/2000/svg"
       viewBox="0 0 64 64" width="64px" height="64px">

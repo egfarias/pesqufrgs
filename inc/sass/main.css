@@ -1013,29 +1013,29 @@ h5 a {
 
 :root,
 [data-theme=UFRGSPesq] {
-  --c-pr-0: hsl(205, 76%, 20%);
-  --c-pr-1: hsl(205, 76%, 30%);
-  --c-pr-2: hsl(205, 76%, 40%);
-  --c-pr-3: hsl(205, 76%, 50%);
-  --c-pr-4: hsl(205, 76%, 60%);
-  --c-pr-5: hsl(205, 76%, 70%);
-  --c-pr-6: hsl(205, 76%, 80%);
-  --c-pr-7: hsl(205, 76%, 90%);
-  --c-pr-h: 205;
+  --c-pr-0: hsl(161, 76%, 20%);
+  --c-pr-1: hsl(161, 76%, 30%);
+  --c-pr-2: hsl(161, 76%, 40%);
+  --c-pr-3: hsl(161, 76%, 50%);
+  --c-pr-4: hsl(161, 76%, 60%);
+  --c-pr-5: hsl(161, 76%, 70%);
+  --c-pr-6: hsl(161, 76%, 80%);
+  --c-pr-7: hsl(161, 76%, 90%);
+  --c-pr-h: 161;
   --c-pr-s: 76%;
-  --c-siteheader-bg-light: hsla(205, 29%, 50%, 0.5);
-  --c-siteheader-bg-dark: hsla(205, 29%, 30%, 0.5);
-  --c-sitemenu-bg-light: hsla(205, 29%, 50%, 0.7);
-  --c-sitemenu-bg-dark: hsla(205, 29%, 30%, 0.7);
-  --c-se-0: hsl(205, 29%, 30%);
-  --c-se-1: hsl(205, 29%, 50%);
-  --c-se-2: hsl(205, 29%, 70%);
-  --c-se-3: hsl(205, 29%, 80%);
-  --c-se-4: hsl(205, 29%, 90%);
-  --c-ic-0: hsl(205, 56%, 50%);
-  --c-ic-1: hsl(205, 56%, 65%);
-  --c-ic-2: hsl(205, 56%, 75%);
-  --c-ic-3: hsl(205, 56%, 90%);
+  --c-siteheader-bg-light: hsla(161, 29%, 50%, 0.5);
+  --c-siteheader-bg-dark: hsla(161, 29%, 30%, 0.5);
+  --c-sitemenu-bg-light: hsla(161, 29%, 50%, 0.7);
+  --c-sitemenu-bg-dark: hsla(161, 29%, 30%, 0.7);
+  --c-se-0: hsl(161, 29%, 30%);
+  --c-se-1: hsl(161, 29%, 50%);
+  --c-se-2: hsl(161, 29%, 70%);
+  --c-se-3: hsl(161, 29%, 80%);
+  --c-se-4: hsl(161, 29%, 90%);
+  --c-ic-0: hsl(161, 56%, 50%);
+  --c-ic-1: hsl(161, 56%, 65%);
+  --c-ic-2: hsl(161, 56%, 75%);
+  --c-ic-3: hsl(161, 56%, 90%);
 }
 
 @media (prefers-color-scheme: light) {
@@ -1973,6 +1973,11 @@ a {
   background-color: var(--c-se-4);
   width: 200px;
   height: 100px;
+}
+
+.i-datalab {
+  width: 200px;
+  height: 200px;
 }
 
 .i-unifesp {

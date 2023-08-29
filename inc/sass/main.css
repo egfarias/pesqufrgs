@@ -1789,6 +1789,14 @@ a {
   }
 }
 
+.headerdatalab__logo {
+  background-color: transparent;
+  height: 50px;
+  margin: 0.3rem;
+  transition: all 0.25s ease-in-out;
+  width: 50px;
+}
+
 .siteheader__logo {
   background-color: var(--c-siteheader-logo);
   height: 50px;

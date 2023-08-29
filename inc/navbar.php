@@ -17,7 +17,7 @@
     <a href="ufrgs.br/datalab">
       <!-- <img class="siteheader-logo" src="<?php echo $url_base; ?>/inc/images/logos/logo_header.svg" loading="lazy" /> -->
       <!-- <i class="i i-ufrgspesqheader siteheader__logo"></i> -->
-      <img class="i headerdatalab__logo" src="inc/images/logos/datalab-mini200.png" alt="Ir para o site Datalab">
+      <img class="i headerdatalab__logo" src="inc/images/logos/datalab-mini-2-200.png" alt="Ir para o site Datalab">
     </a>
 
     <div class="sitemenu-container">
